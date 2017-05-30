@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <car id_car="6" brandCar="1" numberCar="AI1196CH" shassiCar="iouoiuo" yearCar="1099"/>
+    <brand brandID="1" brandName="TestBrand"/>
+    <city cityID="1" cityName="TestCity"/>
+    <expenses expensesID="1" expensesName="TestExpenses"/>
+    <clients id="1" name="TestClients" okpo="12345678" adress="Bulvar1" phone="2111111"/>
+    <route routeID="1" routeTitle="TestRoute1" departureCity="1" arrivalCity="2" distance="100"/>
+    <routeexpenses routeexpencesID="1" routeID="1" expensesID="1" expensesCoast="100" />
+</dataset>

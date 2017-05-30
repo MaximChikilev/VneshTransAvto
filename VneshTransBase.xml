@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+<car id_car="1" brandCar="Scania" numberCar="Mersedes" shassiCar="768724jkhkhkjh" yearCar="2000"/>
+<car id_car="2" brandCar="Volvo" numberCar="ok" shassiCar="jjhhgnnt5990968" yearCar="2008"/>
+<car id_car="3" brandCar="Mersedes" numberCar="Malishok" shassiCar="sdjlskjflsk98798" yearCar="2006"/>
+<car id_car="4" brandCar="Opel" numberCar="Hamster" shassiCar="kljlklk" yearCar="2006"/>
+<car id_car="5" brandCar="MAN" numberCar="AI1196CH" shassiCar="iouoiuo" yearCar="1099"/>
+</dataset>

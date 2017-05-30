@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+<car id_car="1" brandCar="Scania" numberCar="Mersedes" shassiCar="768724jkhkhkjh" yearCar="2000"/>
+<car id_car="2" brandCar="Volvo" numberCar="ok" shassiCar="jjhhgnnt5990968" yearCar="2008"/>
+<car id_car="3" brandCar="Mersedes" numberCar="Malishok" shassiCar="sdjlskjflsk98798" yearCar="2006"/>
+<car id_car="4" brandCar="Opel" numberCar="Hamster" shassiCar="kljlklk" yearCar="2006"/>
+<car id_car="5" brandCar="MAN" numberCar="AI1196CH" shassiCar="iouoiuo" yearCar="1099"/>
+<brand brandID="1" brandName="Scania"/>
+<brand brandID="2" brandName="Opel"/>
+<brand brandID="3" brandName="Mersedes"/>
+<brand brandID="4" brandName="MAN"/>
+<brand brandID="5" brandName="RenaultTT"/>
+<city cityID="1" cityName="Kiyv"/>
+<city cityID="2" cityName="Harkov"/>
+<city cityID="3" cityName="London"/>
+<clients id="1" name="Eldorado" OKPO="12345678" adress="Sportivnaya 1a" phone="0"/>
+<clients id="2" name="AXA" OKPO="12345678" adress="0" phone="0"/>
+<expenses expensesID="1" expensesName="Страховка"/>
+<expenses expensesID="2" expensesName="Таможенная пошлина"/>
+<expenses expensesID="3" expensesName="Dpz"/>
+<expenses expensesID="4" expensesName="lkjdflkj"/>
+<route routeID="1" routeTitle="FirstRoute" departureCity="Kiyv" arrivalCity="London" distance="1200"/>
+<route routeID="2" routeTitle="SecondRoute" departureCity="Kiyv" arrivalCity="Harkov" distance="2350"/>
+</dataset>
